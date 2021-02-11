@@ -1,1 +1,28 @@
 
+body 
+{	
+	font: 18px Merriweather, cursive;
+	background-color: #97C8EB;
+		
+}
+
+h1{
+	color: #001011;
+}
+
+h2 {
+	color: #093A3E
+}
+
+ol {
+	color: #3AAFB9;
+
+}
+p {
+	color: #093A3E;
+	border: #3AAFB9 solid 2px 
+}
+
+img, h6 {
+	padding-left: 500px;
+}
